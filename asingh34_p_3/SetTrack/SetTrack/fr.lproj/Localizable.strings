@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SetTrack
+
+  Created by Anant Singh on 8/11/21.
+  
+*/
+//exercises
+"str_bench" = "Banc";
+"str_squat" = "Accroupissement";
+"str_dead" = "soulevé de terre";
+//UI
+
+"str_set" = "ensenmble";
+"str_rep" = "répétition";
+"str_timer" = "minuteur";
+"str_weight" = "poid";
+
+"str_privacy" = "Politique de Confidentialité";

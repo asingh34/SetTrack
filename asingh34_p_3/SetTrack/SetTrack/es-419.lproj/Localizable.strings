@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  SetTrack
+
+  Created by Anant Singh on 8/11/21.
+  
+*/
+"str_bench" = "Banco";
+"str_squat" = "Sentadillas";
+"str_dead" = "Levantamiento de peso muerto";
+
+"str_set" = "fijo";
+"str_rep" = "repetecíon";
+"str_timer" = "temporizador";
+"sre_weight" = "peso";
+
+"str_privacy" = "La Política de Privicidad";
